@@ -1,4 +1,4 @@
-package com.ljw.dp.observer;
+package com.ljw.dp.structure.observer;
 
 public class Client {
 
