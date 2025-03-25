@@ -1,4 +1,4 @@
-package com.ljw.dp.structure.observer;
+package com.ljw.dp.behaviour.observer;
 
 public class Editor {
     public EventManager events= new EventManager("open","save");

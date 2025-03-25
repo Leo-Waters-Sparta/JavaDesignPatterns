@@ -1,4 +1,4 @@
-package com.ljw.dp.structure.cor;
+package com.ljw.dp.behaviour.cor;
 
 public class Client {
     public static void main(String[] args) {

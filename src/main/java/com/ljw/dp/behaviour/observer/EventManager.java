@@ -1,4 +1,4 @@
-package com.ljw.dp.structure.observer;
+package com.ljw.dp.behaviour.observer;
 
 import java.util.ArrayList;
 import java.util.HashMap;
